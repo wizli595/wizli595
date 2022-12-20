@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m @wizli595<br>- 👀 I’m interested in web, desktop, and networking<br>- 🌱 I’m currently working on my own website<br><br>- 📫 How to reach me (abdessalam ouazri)
+ 👋 Hi, I’m @wizli595<br>- 👀 I’m interested in web, desktop, and networking<br>- 🌱 I’m currently working on my own website<br><br>-📫 How to reach me (abdessalam ouazri)
 
 
 ## 🌐 Socials:
