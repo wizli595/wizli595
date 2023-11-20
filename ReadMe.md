@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm abdessalam ouazri</h1>
-<h3 align="center">A Full-Stack Magician 🧙‍♂️ mastering the arcane arts of Frontend Illusions 🎩 and Backend Alchemy 🧪.</h3>
+<h3 align="center">A Full-Stack Web Developer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizli595&label=Profile%20views&color=0e75b6&style=flat" alt="wizli595" /> </p>
 
-- 🔭 I’m currently working on **anymovie**
+- 🔭 I’m currently working on **Job Board**
 
 - 🌱 I’m currently learning **a lot**
 
-- 💬 Ask me about **laravel**
+- 💬 Ask me about **Laravel/Mern**
 
 - 📫 How to reach me **abdoowizli@gmail.com**
 
