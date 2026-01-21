@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,100:0ea5e9&text=Abdessalam%20Ouazri&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=40&desc=AI%20Full-Stack%20Engineer&descAlign=50&descAlignY=70&animation=fadeIn&section=header" alt="Banner" width="100%" />
 
-<h1>Abdessalam Ouazri — Senior AI-Oriented Full-Stack Engineer</h1>
+<h1>Abdessalam Ouazri — Junior AI-Oriented Full-Stack Engineer</h1>
 <h3>Building scalable products at the intersection of software engineering and applied AI.</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2400&pause=500&color=36BCF7&center=true&vCenter=true&width=620&lines=LLM+features+%7C+RAG+pipelines+%7C+guardrails;Scalable+backends+%7C+Laravel%2C+MERN%2C+Next.js;Observability+%7C+shipping+with+CI%2FCD+and+SLOs" alt="typing animation" />
